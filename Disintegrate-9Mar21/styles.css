@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+#dog {
+  width: 100vw;
+  height: 100vh;
+  background-image: url('Daschund-Puppy-13-e1552409747132.jpg');
+  /* background-image: url('dachshund-puppy.jpg'); */
+  background-size: cover;
+  background-position: center;
+}
