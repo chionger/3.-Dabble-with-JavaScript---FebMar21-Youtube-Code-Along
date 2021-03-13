@@ -1,0 +1,20 @@
+{
+  "name": "ct-m2-server",
+  "version": "1.0.0",
+  "description": "Node JS and Express Server following Code Train 2.1 Server-side with Node.js - Working with Data and APIs in JavaScript",
+  "main": "index_server_code.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "example",
+    "data",
+    "selfie"
+  ],
+  "author": "based on work by Joey Lee and Daniel Shiffman",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nedb": "^1.8.0"
+  }
+}
